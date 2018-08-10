@@ -29,7 +29,6 @@ A combination of JavaScript, HTML, CSS and Lodash, are used generate a randomize
 Hostess, Trainer, Server, Shift-lead Closing Server:
 
  Provided excellent customer service and accommodated groups of 5-35 people with menu item modifications and allergies.
-
  Facilitated the request of over 65 clients daily.
 
 **Redrock Canyon Grill|** Silver Spring, MD| Dec. 2007- Nov. 2010
@@ -37,15 +36,14 @@ Hostess, Trainer, Server, Shift-lead Closing Server:
 Shift Coordinator/trainer:
 
  Supervised and trained groups of 5 or more junior wait staff a day.
-
  Directed teams of 7 or more employees through their daily routines and managing customer relations.
-
  Ensured above satisfactory experiences of dining halls filled with 45 or more people.
 
 ### EDUCATION
 
-**General Assembly** Web Dev. Immersive |Aug. 2018 Full stack web-development course.
-**UMBC** Bachelor of Arts Major: Psychology Minor: Pol. Sci. |Jan. 2018 Explored paradigms on resilience, intervention, job satisfaction among various schools of thought.
+**General Assembly |** Web Dev. Immersive |Aug. 2018 Full stack web-development course.
+
+**UMBC |** Bachelor of Arts Major: Psychology Minor: Pol. Sci. |Jan. 2018 Explored paradigms on resilience, intervention, job satisfaction among various schools of thought.
 
 ### TECHNICAL SKILLS
 
